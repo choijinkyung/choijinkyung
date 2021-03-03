@@ -2,6 +2,11 @@
 
 ### Hi, I'm Jinkyung. I am a developer who develops Web PACS 👋
 
+https://img.shields.io/badge/<javscript>-<brightgreen>
+https://img.shields.io/badge/<PACS>-<greeb>
+https://img.shields.io/badge/<Web>-<yellowgreen>
+https://img.shields.io/badge/<DICOM>-<yellow>
+https://img.shields.io/badge/<Cornerstone>-<orange>
 <!--
 **choijinkyung/choijinkyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
