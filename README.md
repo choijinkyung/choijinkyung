@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jinkyung (Eden) Choi
+# 👋 Hi, I'm Jinkyung (Zen) Choi
 
 💻 Healthcare-focused Full-Stack Engineer (5+ years)  
 🩺 Specialized in PACS, DICOM, and Medical Imaging Systems  
@@ -61,5 +61,5 @@
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
+- Email: jinkyung.dev@gmail.com
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/jinkyung-choi/)
