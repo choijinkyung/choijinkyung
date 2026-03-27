@@ -62,4 +62,4 @@
 
 ## 📫 Contact
 - Email: jinkyung.dev@gmail.com
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/jinkyung-choi/)
+- LinkedIn: (https://www.linkedin.com/in/jinkyung-choi/)
