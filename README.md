@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 **Frontend**
-- Vue 3, TypeScript, Vuetify
+- Vue 3, React, Next.js, TypeScript
 
 **Backend**
 - Node.js, REST API, Microservices
@@ -29,7 +29,7 @@
 - Docker, CI/CD
 
 **Database**
-- MySQL, MSSQL, Oracle
+- MySQL, MSSQL, Oracle, PostgreSQL
 
 ---
 
