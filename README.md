@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jinkyung (Zen) Choi
+# 👋 Hi, I'm Jinkyung (Rowan) Choi
 
 💻 Healthcare-focused Full-Stack Engineer (5+ years)  
 🩺 Specialized in PACS, DICOM, and Medical Imaging Systems  
